@@ -1,0 +1,4 @@
+cockpit-common.pretty/NGFF_E: https://github.com/jmgao/kicad-ngff
+
+3d/3Pins SPDT switch SK-12D07 1P2T.step: https://grabcad.com/library/sk-12d07-1p2t-1
+3d/TE_2199230-4: https://github.com/fgervais/kicad-library
